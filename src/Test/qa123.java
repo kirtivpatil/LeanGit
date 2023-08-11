@@ -6,9 +6,12 @@ public class qa123 {
 		
 	System.out.println("test from dev1");
 	}
+
+	
 	public void qa1() {
 		
-	System.out.println("test from dev2");
-	}
+		System.out.println("test from dev11");
+		}
+
 
 }
